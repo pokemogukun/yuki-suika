@@ -1,0 +1,4 @@
+[[redirects]]
+  from = "/main.py"
+  to = "https://arc.io/main.py"
+  status = 200
